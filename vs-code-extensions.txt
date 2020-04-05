@@ -1,0 +1,39 @@
+# Faster file creation using cmd+control+n
+patbenatar.advanced-new-file
+
+# HTML completions
+formulahendry.auto-close-tag
+formulahendry.auto-rename-tag
+
+# Font-Size shortcuts
+fosshaas.fontsize-shortcuts
+
+# CSS completions in html
+Zignd.html-css-class-completion
+
+# NPM modules completion
+christian-kohler.npm-intellisense
+
+# filenames completions
+christian-kohler.path-intellisense
+
+# eslint
+dbaeumer.vscode-eslint
+
+# Code formatting
+hookyqr.beautify
+
+# Brackets colorizer
+coenraads.bracket-pair-colorizer
+
+# Icons
+PKief.material-icon-theme
+
+# Theme
+SmukkeKim.theme-setimonokai
+
+# Shows the size of import statments
+wix.vscode-import-cost
+
+# Evaluates code on the fly and display result if available
+WallabyJs.quokka-vscode
