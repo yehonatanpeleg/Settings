@@ -37,3 +37,11 @@ wix.vscode-import-cost
 
 # Evaluates code on the fly and display result if available
 WallabyJs.quokka-vscode
+
+# Wix recommended extensions
+markdownlint
+Debugger for Chrome
+npm
+React Food Truck
+stylelint
+TSLint
