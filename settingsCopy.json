@@ -10,7 +10,7 @@
   "editor.fontSize": 18,
   "workbench.editor.enablePreview": false,
   "editor.fontLigatures": true,
-  "terminal.integrated.fontSize": 24,
+  "terminal.integrated.fontSize": 18,
   "files.autoSave": "onFocusChange",
   "editor.fontFamily": "Anonymous Pro",
   "editor.tabSize": 2,
