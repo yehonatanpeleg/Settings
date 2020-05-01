@@ -18,7 +18,7 @@
   "markdown.preview.fontSize": 36,
   "editor.minimap.enabled": false,
   "eslint.enable": true,
-  "editor.formatOnSave": true,
+  "editor.formatOnSave": false,
   "editor.suggestSelection": "first",
   "beautify.config": {
     "indent_size": 2
@@ -39,5 +39,9 @@
   "explorer.confirmDragAndDrop": false,
   "prettier.eslintIntegration": true,
   "window.restoreWindows": "all",
-  "window.reopenFolders": "all"
+  "window.reopenFolders": "all",
+  "css2react.singleQuotes": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "yaml.format.singleQuote": true
 }
